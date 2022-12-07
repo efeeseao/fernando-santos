@@ -34,7 +34,7 @@ export const Base = ({
     <NextSeo
       openGraph={{
         type: 'website',
-        url: `https://fernandosantos.vercel.app${
+        url: `https://fernando-santos.vercel.app${
           locale === 'pt-BR' ? '/pt-BR/' : '/'
         }`,
         locale: locale === 'pt-BR' ? 'pt_BR' : 'en_US',
@@ -42,7 +42,7 @@ export const Base = ({
         description: description,
         images: [
           {
-            url: `https://fernandosantos.vercel.app/api/og/?title=${title}&subtitle=${subTitle}`,
+            url: `https://fernando-santos.vercel.app/api/og/?title=${title}&subtitle=${subTitle}`,
             width: 1200,
             height: 630,
             alt: 'Og Image Alt',

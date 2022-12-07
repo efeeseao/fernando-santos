@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://fernando-santos.vercel.app/site-map

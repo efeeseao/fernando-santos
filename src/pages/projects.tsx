@@ -116,6 +116,16 @@ export default function Projects() {
                   Kriandu
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://trilha.info/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-neutral-800 dark:text-neutral-100"
+                >
+                  Trilha info
+                </a>
+              </li>
             </ul>
           </div>
         </article>
